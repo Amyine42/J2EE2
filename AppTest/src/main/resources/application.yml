@@ -1,8 +1,0 @@
-spring:
-  security:
-    saml2:
-      relyingparty:
-        registration:
-          adfs-saml:
-            identityprovider:
-              metadata-uri: config/descriptorRealm.xml
